@@ -1,2 +1,2 @@
 # nodeinfo
-System Information
+System Information.
